@@ -1,0 +1,805 @@
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:42: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:42: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:53: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:42: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:53: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:32:05: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:42: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:53: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:32:05: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:05:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:42: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:53: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:32:05: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:05:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:05:56: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:42: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:53: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:32:05: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:05:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:05:56: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:06:09: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:42: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:53: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:32:05: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:05:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:05:56: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:06:09: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:06:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:42: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:53: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:32:05: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:05:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:05:56: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:06:09: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:06:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:18:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:42: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:53: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:32:05: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:05:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:05:56: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:06:09: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:06:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:18:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:18:45: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:42: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:53: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:32:05: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:05:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:05:56: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:06:09: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:06:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:18:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:18:45: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:18:57: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 19:36:34: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 19:37:14: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:18: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:08:57: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:15: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:12:53: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:13:07: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:13:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:18:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:18:52: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:19:04: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:19:16: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:28:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:28:40: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:04: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.3333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:42: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 20:31:53: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 20:32:05: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:05:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:05:56: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:06:09: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:06:20: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:18:02: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:18:45: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:18:57: [Perm-3 hyperG loader__green__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:19:08: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = nan <<< paramz = {}                                                
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:55:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:55:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:58:49: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:55:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:58:49: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:33: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:55:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:58:49: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:33: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:55:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:58:49: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:33: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 22:00:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:55:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:58:49: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:33: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 22:00:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 22:04:13: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:55:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:58:49: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:33: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 22:00:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 22:04:13: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:04:56: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:55:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:58:49: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:33: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 22:00:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 22:04:13: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:04:56: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:05:09: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:21:12: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:21:55: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:29:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:30:27: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:32:47: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:33:24: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:20: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4333 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:37:58: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.3667 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'linear'}
+19-07-2021 21:40:09: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:40:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:46:56: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:47:34: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:52:54: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:53:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:54:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:55:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 21:58:49: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:33: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 21:59:47: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 22:00:00: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 22:04:13: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:04:56: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:05:09: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 22:05:21: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.0000 <<< paramz = {}                                                
+19-07-2021 22:15:05: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:15:05: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:15:44: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:15:05: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:15:44: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:20:10: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:15:05: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:15:44: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:20:10: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:20:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:15:05: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:15:44: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:20:10: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:20:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:22:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:15:05: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:15:44: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:20:10: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:20:48: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:22:57: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:23:35: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:25:00: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:25:00: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:25:38: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:25:00: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:25:38: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:25:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 22:25:00: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:25:38: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:25:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 22:26:03: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2500 <<< paramz = {}                                                
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:46:06: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.4433 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:46:06: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.4433 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:48:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.3051 <<< paramz = {}                                                
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:46:06: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.4433 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:48:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.3051 <<< paramz = {}                                                
+19-07-2021 22:51:40: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2712 <<< paramz = {}                                                
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:46:06: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.4433 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:48:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.3051 <<< paramz = {}                                                
+19-07-2021 22:51:40: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2712 <<< paramz = {}                                                
+19-07-2021 23:00:30: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:46:06: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.4433 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:48:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.3051 <<< paramz = {}                                                
+19-07-2021 22:51:40: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2712 <<< paramz = {}                                                
+19-07-2021 23:00:30: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:09: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:46:06: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.4433 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:48:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.3051 <<< paramz = {}                                                
+19-07-2021 22:51:40: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2712 <<< paramz = {}                                                
+19-07-2021 23:00:30: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:09: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:22: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:46:06: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.4433 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:48:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.3051 <<< paramz = {}                                                
+19-07-2021 22:51:40: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2712 <<< paramz = {}                                                
+19-07-2021 23:00:30: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:09: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:22: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 23:01:35: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2500 <<< paramz = {}                                                
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:46:06: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.4433 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:48:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.3051 <<< paramz = {}                                                
+19-07-2021 22:51:40: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2712 <<< paramz = {}                                                
+19-07-2021 23:00:30: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:09: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:22: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 23:01:35: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2500 <<< paramz = {}                                                
+19-07-2021 23:04:32: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:46:06: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.4433 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:48:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.3051 <<< paramz = {}                                                
+19-07-2021 22:51:40: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2712 <<< paramz = {}                                                
+19-07-2021 23:00:30: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:09: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:22: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 23:01:35: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2500 <<< paramz = {}                                                
+19-07-2021 23:04:32: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:05:12: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:46:06: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.4433 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:48:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.3051 <<< paramz = {}                                                
+19-07-2021 22:51:40: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2712 <<< paramz = {}                                                
+19-07-2021 23:00:30: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:09: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:22: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 23:01:35: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2500 <<< paramz = {}                                                
+19-07-2021 23:04:32: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:05:12: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:05:25: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 22:37:17: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.4458 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:46:06: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.4433 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 22:48:50: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.3051 <<< paramz = {}                                                
+19-07-2021 22:51:40: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2712 <<< paramz = {}                                                
+19-07-2021 23:00:30: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:09: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:01:22: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 23:01:35: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2500 <<< paramz = {}                                                
+19-07-2021 23:04:32: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:05:12: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:05:25: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 23:05:38: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2500 <<< paramz = {}                                                
+19-07-2021 23:13:21: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:13:21: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:14:02: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:13:21: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:14:02: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:14:14: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 23:13:21: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:14:02: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 1, 'model_pipe__svm__kernel': 'rbf'}
+19-07-2021 23:14:14: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+19-07-2021 23:14:27: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2500 <<< paramz = {}                                                
+20-07-2021 12:37:05: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 0.1, 'model_pipe__svm__kernel': 'rbf'}
+20-07-2021 12:37:05: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 0.1, 'model_pipe__svm__kernel': 'rbf'}
+20-07-2021 12:38:33: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 0.1, 'model_pipe__svm__kernel': 'rbf'}
+20-07-2021 12:37:05: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 0.1, 'model_pipe__svm__kernel': 'rbf'}
+20-07-2021 12:38:33: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 0.1, 'model_pipe__svm__kernel': 'rbf'}
+20-07-2021 12:38:45: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+20-07-2021 12:37:05: [Perm-1 svm loader__green__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 0.1, 'model_pipe__svm__kernel': 'rbf'}
+20-07-2021 12:38:33: [Perm-2 svm loader__lbp__flatten__scaler] Best score = 0.5000 <<< paramz = {'model_pipe__svm__C': 0.1, 'model_pipe__svm__kernel': 'rbf'}
+20-07-2021 12:38:45: [Perm-3 hyperG loader__green__flatten__scaler] Best score = 0.1250 <<< paramz = {}                                                
+20-07-2021 12:38:58: [Perm-4 hyperG loader__lbp__flatten__scaler] Best score = 0.2500 <<< paramz = {}                                                
