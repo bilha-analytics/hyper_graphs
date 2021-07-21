@@ -10,6 +10,7 @@ refactors:
 
 from tqdm import tqdm 
 
+import os 
 
 import numpy as np
 import pandas as pd 
@@ -126,7 +127,7 @@ _hg_learning_permutationz = [
             'learn_method' : hlearn.inductive_fit, 
             'learn_argz' : {'lbd': 100, 'mu': .5, 'eta': .5, 'max_iter': 10  , 'log':False} }),
         ]
-
+_ACCURACY_TEXT_FILE = "../data/100_runs_results__{}.txt".format
 
 def run_hg_learning_in_dset(fmap_channelz_ls, is_transductive, hg_kwargz, n_data=10, plot_log=True):
     '''
@@ -135,8 +136,11 @@ def run_hg_learning_in_dset(fmap_channelz_ls, is_transductive, hg_kwargz, n_data
     # each of train and test is a tuple of (X_fmap_paths, y_lbls, X_node_attributes)
     x_fmap, y_lbl, x_attr = 0, 1, 2
     train, test = dio.fetch_test_train(10, mode_transductive=is_transductive, rseed=2932) 
-    
-    data = dio.gen_pdframe(train, test, do_list_only=True) ## TODO: Fix this @ HGModel 
+    if plot_log: ### aaaarrrgggghhhhhh
+        dio.plot_sample_dist(dio.gen_pdframe(train, test) ) 
+
+    ## TODO: Fix this @ HGModel 
+    data = dio.gen_pdframe(train, test, do_list_only=True) 
     hg = hgm.TransductiveHyperG(data, **hg_kwargz) if is_transductive else hgm.InductiveHyperG(data, **hg_kwargz)
     
     results = {} 
@@ -182,9 +186,10 @@ def run_e_iterations(RUNID, n_data, fmap_channelz_ls, permz=_hg_learning_permuta
 
             for p, ac in rez.items(): # save 'checkpoint' and append listing
                 r = [ tname.split('_')[0], tname, p, ac, e] 
-                with open(f"../data/100_runs_results__{RUNID}.txt", 'a') as fd:
-                    f = "\t".join([str(i) for i in r]) 
-                    _ = fd.write(f"{f}\n")
+                if not plot_log: ### aaaarrrgggghhhhhh
+                    with open(_ACCURACY_TEXT_FILE(RUNID), 'a') as fd:
+                        f = "\t".join([str(i) for i in r]) 
+                        _ = fd.write(f"{f}\n")
                 acc_resultz.append( r )
 
     # gen pdframe for further analysis             
@@ -215,14 +220,27 @@ def plot_accuracy_stats(acc_df):
 #### ============ 3. Here we go!! =====================
 RUNID = '004' ## to fummed to tstamp this!!
 
-def do_it_all(R=RUNID, n_data=10, fmap_channelz_ls=_channelz_ls):    
+def do_it_all(R=RUNID, n_data=10, fmap_channelz_ls=_channelz_ls, runz=3):    
     # 1. show sample network graphs 
     df1 = run_e_iterations(R, permz=[_hg_learning_permutationz[i] for i in (0,5)], 
-            n_data=n_data, fmap_channelz_ls=[fmap_channelz_ls[i] for i in (1, -1)], runz=1, plot_log=True)
+            n_data=n_data, fmap_channelz_ls=[fmap_channelz_ls[i] for i in (1, -1)], 
+            runz=1, plot_log=True)
 
     # 2. run everything for stats 
-    df2 = run_e_iterations(R, permz=_hg_learning_permutationz, 
-            n_data=n_data, fmap_channelz_ls=fmap_channelz_ls, runz=3, plot_log=False) 
+    acc_file = _ACCURACY_TEXT_FILE(R) 
+    if os.path.isfile(acc_file): 
+        print(f"loading old file {acc_file}")
+        acc_resultz = [] 
+        with open(acc_file, 'r') as fd:
+            for r in fd.readlines(): 
+                acc_resultz.append( r.strip().split("\t") ) 
+        df2 = pd.DataFrame(acc_resultz, columns=['tm', 'tmethod', 'fmap', 'acc','e'])
+        df2["acc"] = pd.to_numeric(df2["acc"])
+        df2 = df2.sort_values(['tm','acc'],ascending=False)
+    else:
+        print(f"running new round {R}") 
+        df2 = run_e_iterations(R, permz=_hg_learning_permutationz, 
+            n_data=n_data, fmap_channelz_ls=fmap_channelz_ls, runz=runz, plot_log=False) 
 
     plot_accuracy_stats(df2) 
 

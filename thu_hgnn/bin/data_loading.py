@@ -162,6 +162,9 @@ def gen_pdframe(train_tuple, test_tuple, do_list_only=False):
 
 def plot_sample_dist(df):
     plt.figure(figsize=(9,3))
-    g = sns.countplot(x='node_lbl', hue='tgroup', data=df.sort_values(['y_lbl'],ascending=False))#, ax=ax);
+    g = sns.countplot(x='node_lbl', hue='y_lbl', data=df.sort_values(['y_lbl'],ascending=False))#, ax=ax);
+    # g = sns.catplot(x='node_lbl', hue='y_lbl', col='tgroup', data=df.sort_values(['y_lbl'],ascending=False), 
+    #                 kind="count", height=4, aspect=1.1);
+    plt.title('sample distribution - by training group and y_lbl')
     plt.show();
 
