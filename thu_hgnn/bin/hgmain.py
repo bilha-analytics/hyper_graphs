@@ -128,6 +128,7 @@ _hg_learning_permutationz = [
             'learn_argz' : {'lbd': 100, 'mu': .5, 'eta': .5, 'max_iter': 10  , 'log':False} }),
         ]
 _ACCURACY_TEXT_FILE = "../data/100_runs_results__{}.txt".format
+_FMAP_SIZE = (32,32)
 
 def run_hg_learning_in_dset(fmap_channelz_ls, is_transductive, hg_kwargz, n_data=10, plot_log=True):
     '''
@@ -150,12 +151,12 @@ def run_hg_learning_in_dset(fmap_channelz_ls, is_transductive, hg_kwargz, n_data
             print(f"========== @{p}. Running Pipeline <<{pname}>> ===========")
 
         if is_transductive:
-            _ = hg.fit( dio.fetch_fmap_images(train[x_fmap], channz_ls=channz ), train[y_lbl], test[y_lbl] ) 
+            _ = hg.fit( dio.fetch_fmap_images(train[x_fmap], channz_ls=channz,resize_tuple=_FMAP_SIZE ), train[y_lbl], test[y_lbl] ) 
             yhat = hg.predict()
             ac = hg.score() ##TODO DRY
         else:  
-            _ = hg.fit( dio.fetch_fmap_images(train[x_fmap], channz_ls=channz ), train[y_lbl] ) 
-            yhat = hg.predict( dio.fetch_fmap_images(test[x_fmap], channz_ls=channz ), test[y_lbl] )    
+            _ = hg.fit( dio.fetch_fmap_images(train[x_fmap], channz_ls=channz,resize_tuple=_FMAP_SIZE ), train[y_lbl] ) 
+            yhat = hg.predict( dio.fetch_fmap_images(test[x_fmap], channz_ls=channz ,resize_tuple=_FMAP_SIZE), test[y_lbl] )    
             ac = hg.score(test[y_lbl], yhat)
         
         if plot_log:
@@ -222,7 +223,7 @@ RUNID = '004' ## to fummed to tstamp this!!
 
 def do_it_all(R=RUNID, n_data=10, fmap_channelz_ls=_channelz_ls, runz=3):    
     # 1. show sample network graphs 
-    df1 = run_e_iterations(R, permz=[_hg_learning_permutationz[i] for i in (0,5)], 
+    df1 = run_e_iterations(R, permz=[_hg_learning_permutationz[i] for i in (0,1, 5, -1)], 
             n_data=n_data, fmap_channelz_ls=[fmap_channelz_ls[i] for i in (1, -1)], 
             runz=1, plot_log=True)
 
