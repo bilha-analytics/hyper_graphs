@@ -159,8 +159,8 @@ class HGModel(BaseEstimator):
                 l = set( he_nodes)
                 r = g.nodes - l
                 pos = {}
-                pos.update((node, (1, 4*index)) for index, node in enumerate(l))
-                pos.update((node, (2, index)) for index, node in enumerate(r))
+                pos.update((node, (1, 6*index)) for index, node in enumerate(l))
+                pos.update((node, (2, 3*index)) for index, node in enumerate(r))
             
             #he_nodes = set(g.nodes) - set(nodes) 
             #print(he_nodes)

@@ -136,7 +136,7 @@ def run_hg_learning_in_dset(fmap_channelz_ls, is_transductive, hg_kwargz, n_data
     '''
     # each of train and test is a tuple of (X_fmap_paths, y_lbls, X_node_attributes)
     x_fmap, y_lbl, x_attr = 0, 1, 2
-    train, test = dio.fetch_test_train(10, mode_transductive=is_transductive, rseed=2932) 
+    train, test = dio.fetch_test_train(n_data, mode_transductive=is_transductive, rseed=2932) 
     if plot_log: ### aaaarrrgggghhhhhh
         dio.plot_sample_dist(dio.gen_pdframe(train, test) ) 
 
@@ -182,6 +182,8 @@ def run_e_iterations(RUNID, n_data, fmap_channelz_ls, permz=_hg_learning_permuta
     acc_resultz = []
     for e in tqdm( range(runz) ):
         for tname, is_trans, hg_kwargz in permz:   
+            if plot_log:
+                print(f"\n\n{'*'*30}\n {e}/{runz}. eRUN {tname}\n{'*'*30}")
             plt.clf(); 
             rez = run_hg_learning_in_dset(fmap_channelz_ls, is_trans, hg_kwargz, n_data=n_data, plot_log=plot_log)
 
@@ -224,7 +226,7 @@ RUNID = '004' ## to fummed to tstamp this!!
 def do_it_all(R=RUNID, n_data=10, fmap_channelz_ls=_channelz_ls, runz=3):    
     # 1. show sample network graphs 
     df1 = run_e_iterations(R, permz=[_hg_learning_permutationz[i] for i in (0,1, 5, -1)], 
-            n_data=n_data, fmap_channelz_ls=[fmap_channelz_ls[i] for i in (1, -1)], 
+            n_data=n_data, fmap_channelz_ls=[fmap_channelz_ls[i] for i in (1, 0, -1)], 
             runz=1, plot_log=True)
 
     # 2. run everything for stats 

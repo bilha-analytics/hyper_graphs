@@ -120,6 +120,7 @@ def fetch_test_train(N=None, n_classes=2, perc_test=.3,
                 break 
         all_D = _DATA      
     
+    np.random.shuffle( all_D  )
     
     n = len(all_D)
     tn = int(n*.3) 
