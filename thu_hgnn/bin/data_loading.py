@@ -19,12 +19,12 @@ from collections import defaultdict
 
 import seaborn as sns 
 
+import hgmain as hconf 
+
 '''
 Config stuff 
 '''
-DSET_FILE = '../data/stare_fundus_graph_data.txt'
 _CLASSEZ = ['Undef', 'Normal', 'DR', 'Other']
-
 
 ##======= 1. File IO ====================
 
@@ -33,7 +33,7 @@ def load_dset_listing():
     Fetch fmap item from listing 
     @return list of fmap metadata tuples of (fpath, disease, attr_code, y_label)
     '''
-    with open(f"{DSET_FILE}", 'r') as fd:
+    with open(f"{hconf.DSET_FILE}", 'r') as fd:
         for ln in fd.readlines():
             yield list(ln.strip().split("\t"))
 

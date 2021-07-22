@@ -34,7 +34,7 @@ class HGModel(BaseEstimator):
                  learn_method, learn_argz ): 
         super().__init__()
 
-        self.gdata = gdata ## gdata = content listing, TODO: = list(x_attr:(disease, node lbl))
+        self.gdata = gdata ## gdata = content listing, TODO: = list(x_attr only )  
         self.gen_method =  gen_method 
         self.gen_argz = gen_argz 
         self.learn_method =  learn_method 
@@ -240,7 +240,7 @@ class InductiveHyperG(HGModel):
         if y is not None:
             y = np.array(y)
 
-        ## 1. generate the hyper graph        
+        ## 1. generate the hyper graph      TODO: @ properly place dio._CLASSEZ task abstract for non-fundus cases  
         if self.gen_method == hgen.gen_attribute_hg:
             #print("Inductive @ gen attribute based hg ")
             n_nodes = len( X )            

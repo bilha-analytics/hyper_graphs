@@ -63,7 +63,7 @@ _channelz_ls = [
 
 _TEST_PERCENT = .3  
 _hg_learning_permutationz = [
-        #. transductive kNN l2-relational single-g
+        #. transductive kNN l2-dist single-g
         ('trans_kNN', True,{
             'gen_method': hgen.gen_knn_hg,  
             'gen_argz' : {'n_neighbors' : 4, 'with_feature': False }, 
@@ -136,7 +136,7 @@ def run_hg_learning_in_dset(fmap_channelz_ls, is_transductive, hg_kwargz, n_data
     '''
     # each of train and test is a tuple of (X_fmap_paths, y_lbls, X_node_attributes)
     x_fmap, y_lbl, x_attr = 0, 1, 2
-    train, test = dio.fetch_test_train(n_data, mode_transductive=is_transductive, rseed=2932) 
+    train, test = dio.fetch_test_train(n_data, mode_transductive=is_transductive, rseed=None) 
     if plot_log: ### aaaarrrgggghhhhhh
         dio.plot_sample_dist(dio.gen_pdframe(train, test) ) 
 
@@ -248,3 +248,14 @@ def do_it_all(R=RUNID, n_data=10, fmap_channelz_ls=_channelz_ls, runz=3):
     plot_accuracy_stats(df2) 
 
     return df2 
+
+DSET_FILE = '../data/stare_fundus_graph_data.txt'
+
+import sys, getopt 
+if __name__ == "__main__":
+    try:
+        opts, args = getopt.getopt(sys.argv[1:],"hi:",["ifile=",])
+        print( opts, args )
+    except:
+        print("Failed to pass arguements ") 
+    do_it_all('000')
