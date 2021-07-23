@@ -62,71 +62,74 @@ _channelz_ls = [
 #### ============ 2. RUN =====================
 
 _TEST_PERCENT = .3  
-_hg_learning_permutationz = [
-        #. transductive kNN l2-dist single-g
-        ('trans_kNN', True,{
-            'gen_method': hgen.gen_knn_hg,  
-            'gen_argz' : {'n_neighbors' : 4, 'with_feature': False }, 
+_inductive_learner = {
+            'learn_method' : hlearn.inductive_fit, 
+            'learn_argz' : {'lbd': 100, 'mu': .5, 'eta': .5, 'max_iter': 10 , 'log':False} }
+
+_transductive_learner  = {
             'learn_method' : hlearn.trans_infer, 
-            'learn_argz' : {'lbd': 100, } }),
+            'learn_argz' : {'lbd': 100, } } 
+
+_graph_generators = [
+        #. transductive kNN l2-dist single-g
+        ('trans_kNN', True, {
+            'gen_method': hgen.gen_knn_hg,  
+            'gen_argz' : {'n_neighbors' : 4, 'with_feature': False }, }),
     
         #. transductive kmeans clustering single-g
         ('trans_kmeans', True,{
             'gen_method': hgen.gen_clustering_hg,  
-            'gen_argz' : {'n_clusters' : 4, 'method':"kmeans", 'with_feature': False, 'random_state':987 }, 
-            'learn_method' : hlearn.trans_infer, 
-            'learn_argz' : {'lbd': 100, } }),
+            'gen_argz' : {'n_clusters' : 4, 'method':"kmeans", 'with_feature': False, 'random_state':987 }, }),
          
         #. transductive L1-relational single-g
         ('trans_L1', True,{
             'gen_method': hgen.gen_norm_hg,  
-            'gen_argz' : {'gamma':.5, 'n_neighbors' : 4, 'norm_type':1, 'with_feature': False, }, 
-            'learn_method' : hlearn.trans_infer, 
-            'learn_argz' : {'lbd': 100, } }),
+            'gen_argz' : {'gamma':.5, 'n_neighbors' : 4, 'norm_type':1, 'with_feature': False, }, }),
          
-        #. transductive L2-relational single-g
-        ('trans_L2', True,{
-            'gen_method': hgen.gen_norm_hg,  
-            'gen_argz' : {'gamma':.5, 'n_neighbors' : 4, 'norm_type':2, 'with_feature': False, }, 
-            'learn_method' : hlearn.trans_infer, 
-            'learn_argz' : {'lbd': 100, } }),
-         
-    
+        # #. transductive L2-relational single-g
+        # ('trans_L2', True,{
+        #     'gen_method': hgen.gen_norm_hg,  
+        #     'gen_argz' : {'gamma':.5, 'n_neighbors' : 4, 'norm_type':2, 'with_feature': False, }, 
+        #     'learn_method' : hlearn.trans_infer, 
+        #     'learn_argz' : {'lbd': 100, } }),
+             
         #. transductive e-ball single-g
         ('trans_eball', True,{
             'gen_method': hgen.gen_epsilon_ball_hg,  
-            'gen_argz' : {'ratio':.5, 'with_feature': False }, 
-            'learn_method' : hlearn.trans_infer, 
-            'learn_argz' : {'lbd': 100, } }),
-                  
-        #. inductive  kNN l2-relation-based single-g
+            'gen_argz' : {'ratio':.5, 'with_feature': False }, }),
+
+
+
+        #. inductive  kNN l2-dist single-g
         ('induct_kNN', False,{
             'gen_method': hgen.gen_knn_hg,  
-            'gen_argz' : {'n_neighbors' : 4, 'with_feature': True }, 
-            'learn_method' : hlearn.inductive_fit, 
-            'learn_argz' : {'lbd': 100, 'mu': .5, 'eta': .5, 'max_iter': 10 , 'log':False} }),
+            'gen_argz' : {'n_neighbors' : 4, 'with_feature': True }, }),
       
+        #. inductive kmeans clustering single-g
+        ('induct_kmeans', False,{
+            'gen_method': hgen.gen_clustering_hg,  
+            'gen_argz' : {'n_clusters' : 4, 'method':"kmeans", 'with_feature': True, 'random_state':987 }, }),
+         
         #. inductive  L1-relation-based single-g
         ('induct_L1', False,{
             'gen_method': hgen.gen_norm_hg,  
-            'gen_argz' : {'gamma':.5, 'n_neighbors' : 4, 'norm_type':1, 'with_feature': True }, 
-            'learn_method' : hlearn.inductive_fit, 
-            'learn_argz' : {'lbd': 100, 'mu': .5, 'eta': .5, 'max_iter': 10 , 'log':False} }),
+            'gen_argz' : {'gamma':.5, 'n_neighbors' : 4, 'norm_type':1, 'with_feature': True }, }),
         
-        #. inductive  L2-relation-based single-g
-        ('induct_L2', False,{
-            'gen_method': hgen.gen_norm_hg,  
-            'gen_argz' : {'gamma':.5, 'n_neighbors' : 4,  'norm_type':2, 'with_feature': True }, 
-            'learn_method' : hlearn.inductive_fit, 
-            'learn_argz' : {'lbd': 100, 'mu': .5, 'eta': .5, 'max_iter': 10 , 'log':False} }),
+        # #. inductive  L2-relation-based single-g
+        # ('induct_L2', False,{
+        #     'gen_method': hgen.gen_norm_hg,  
+        #     'gen_argz' : {'gamma':.5, 'n_neighbors' : 4,  'norm_type':2, 'with_feature': True }, 
+        #     'learn_method' : hlearn.inductive_fit, 
+        #     'learn_argz' : {'lbd': 100, 'mu': .5, 'eta': .5, 'max_iter': 10 , 'log':False} }),
     
         #. inductive  attribute-based single-g
         ('induct_attribute', False,{
             'gen_method': hgen.gen_attribute_hg,  
-            'gen_argz' : { }, 
-            'learn_method' : hlearn.inductive_fit, 
-            'learn_argz' : {'lbd': 100, 'mu': .5, 'eta': .5, 'max_iter': 10  , 'log':False} }),
+            'gen_argz' : { }, }),
         ]
+
+_hg_learning_permutationz = [(g[0], g[1], {**g[2], **_inductive_learner}) for g in _graph_generators if g[1] == False] + [(g[0], g[1], {**g[2], **_transductive_learner}) for g in _graph_generators if g[1] == True]
+
 _ACCURACY_TEXT_FILE = "../data/100_runs_results__{}.txt".format
 _FMAP_SIZE = (32,32)
 
