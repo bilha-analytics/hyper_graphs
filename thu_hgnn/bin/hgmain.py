@@ -70,6 +70,10 @@ _transductive_learner  = {
             'learn_method' : hlearn.trans_infer, 
             'learn_argz' : {'lbd': 100, } } 
 
+_dyna_learner = {
+    'learn_method' : hlearn.dyna_hg_trans_infer, 
+    'learn_argz' : {'lbd': 100, } } 
+
 _graph_generators = [
         #. transductive kNN l2-dist single-g
         ('trans_kNN', True, {
@@ -129,6 +133,9 @@ _graph_generators = [
         ]
 
 _hg_learning_permutationz = [(g[0], g[1], {**g[2], **_inductive_learner}) for g in _graph_generators if g[1] == False] + [(g[0], g[1], {**g[2], **_transductive_learner}) for g in _graph_generators if g[1] == True]
+
+
+
 
 _ACCURACY_TEXT_FILE = "../data/100_runs_results__{}.txt".format
 _FMAP_SIZE = (32,32)

@@ -31,9 +31,8 @@ import data_loading as dio
 class HGModel(BaseEstimator):
     def __init__(self, gdata, 
                  gen_method, gen_argz,
-                 learn_method, learn_argz ): 
-        super().__init__()
-
+                 learn_method, learn_argz   ): 
+        super().__init__() 
         self.gdata = gdata ## gdata = content listing, TODO: = list(x_attr only )  
         self.gen_method =  gen_method 
         self.gen_argz = gen_argz 
